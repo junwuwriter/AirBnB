@@ -25,5 +25,27 @@ Code:
 - AirBnB.py contains the helper functions used for all of the analysis. 
 - AirBnB_Sentiment.ipynb jupyter notebook contains the sentiment analysis using tf-df and random forest model. 
 
+Libraries:
+
+numpy - library used for matrix math
+pandas - library used for dataframe handling
+re - library used for regular expression
+nltk - library used for natural language processing
+sklearn - library used for modeling 
+matplotlib - library used for graphing
+
+All libraries can be installed using: pip install [library]
+
+Acknowledgements:
+
+Sentiment Analysis: First Steps With Python's NLTK library
+https://realpython.com/python-nltk-sentiment-analysis/
+
+Tf-IDF Documentation:
+https://www.rdocumentation.org/packages/superml/versions/0.5.3/topics/TfIdfVectorizer
+
+Re Documentation:
+https://www.w3schools.com/python/python_regex.asp
+
 
 
